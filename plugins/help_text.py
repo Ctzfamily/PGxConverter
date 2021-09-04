@@ -99,7 +99,7 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("Help", callback_data = "ghelp")
+                        InlineKeyboardButton("[ ✘ʜᴇʟᴘ✘ ]", callback_data = "ghelp")
                 ],
                 [
                     InlineKeyboardButton('[ ✘ᴜᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ✘ ]', url='https://t.me/pigasusUpdates'),
