@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
 
-<b>Bot Maintained By: @MaI_BoTs </b> \n 
+<b>Bot Cʀᴇᴀᴛᴇʀ By: @Ctzfamily </b> \n 
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
@@ -13,7 +13,7 @@ class Translation(object):
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me ᴊᴏɪɴ ᴏᴜʀ @pigasusUpdates @pigasusSupport</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
+    NOT_AUTH_USER_TEXT = "CONTACT @ctzfamily "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @ctzfamily "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully✖️"
