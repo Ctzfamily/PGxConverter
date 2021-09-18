@@ -9,8 +9,8 @@ An Multi purpose Bot Which Can :-
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
 
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/No_OnE_Kn0wS_Me) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/Mai_bOTs) 
+If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through Support Group In Telegram [PigasusSupport ](https://t.me/pigasuaSupport) 
+Also Support Our Channel [PigasusUpdates](https://t.me/PigasusUpdates) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
@@ -18,3 +18,6 @@ Also Support Our Channel [Mai_bOTs](https://telegram.dog/Mai_bOTs)
 * [Dan Tès](https://telegram.dog/haskell) 
 * [Yoily](https://telegram.dog/YoilyL)
 * [Anand](https://telegram.dog/Anandpskerala)
+
+
+😎 Creater by [✗Ctzfamily✗](https://t.me/ctzfamily)
