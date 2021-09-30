@@ -99,15 +99,15 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("[ ✘ʜᴇʟᴘ✘ ]", callback_data = "ghelp")
+                        InlineKeyboardButton("⚙️Help⚙️", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('[ ✘ᴜᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ✘ ]', url='https://t.me/pigasusUpdates'),
-                    InlineKeyboardButton('[ ✘Fᴇᴇᴅ ʙᴀᴄᴋ✘ ]', url='https://t.me/pigasusSupport')
+                    InlineKeyboardButton('📢 Updates', url='https://t.me/pigasusUpdates'),
+                    InlineKeyboardButton('💭 Support', url='https://t.me/pigasusSupport')
                 ],
                 [
-                    InlineKeyboardButton('[ ✘ᴠᴇɢᴇᴛᴀRᴏʙᴏᴛ✘ ]', url='https://t.me/vegetarobot'),
-                    InlineKeyboardButton('[ ✘Cʀᴇᴀᴛᴇʀ✘ ]', url='https://t.me/Ctzfamily')
+                    InlineKeyboardButton('📜 About', url='https://t.me/pigasusOfficial'),
+                    InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/Ctzfamily')
                 ]
             ]
         ),
